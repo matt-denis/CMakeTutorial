@@ -1,0 +1,6 @@
+[submodule "2_CMake/7_ExternalGit/external/external/json"]
+	path = 2_CMake/7_ExternalGit/external/external/json
+	url = https://github.com/nlohmann/json.git
+[submodule "2_CMake/7_ExternalGit/external/json"]
+	path = 2_CMake/7_ExternalGit/external/json
+	url = https://github.com/nlohmann/json.git
